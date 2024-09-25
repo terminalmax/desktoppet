@@ -117,4 +117,7 @@ void set_window_bottom_most(void* handle, int& vertical)
 
 void remove_tray_icon(void* hwnd) {
     _remove_tray_icon(static_cast<HWND>(hwnd));
+
+    /*Add other clean up if necessary*/
+
 }

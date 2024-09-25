@@ -1,9 +1,7 @@
 //#pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")
-#include <print>
 #include <ranges>
 
 #include "Pet.h"
-
 #include "helper.h"
 #include "slime.h"
 
